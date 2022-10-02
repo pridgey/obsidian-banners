@@ -267,6 +267,13 @@
     > .obsidian-banner {
       position: initial;
       margin-bottom: 20px;
+
+      .banner-title {
+        position: absolute;
+        margin-bottom: 50px;
+        margin-left: 50px;
+        z-index: 1;
+      }
     }
   }
 
